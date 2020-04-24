@@ -56,3 +56,6 @@ for index, item in enumerate(lst_1):
     
 a = np.sin(np.arange(10)[:, None])
 b = np.random.randn(1, 10)
+
+print("Coucou")
+
